@@ -1,0 +1,3 @@
+com\yoyocheknow\hadoop\mapreduce\WordCountApp.class
+com\yoyocheknow\hadoop\mapreduce\WordCountApp$MyMapper.class
+com\yoyocheknow\hadoop\mapreduce\WordCountApp$MyReducer.class
